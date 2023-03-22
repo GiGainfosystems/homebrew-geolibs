@@ -1,1 +1,11 @@
-# homebrew-geolibs
+# GiGainfosystems Tap
+
+## How do I install these formulae?
+
+`brew install gigainfosystems/geolibs/<formula>`
+
+Or `brew tap gigainfosystems/geolibs` and then `brew install <formula>`.
+
+## Documentation
+
+`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
